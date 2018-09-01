@@ -30,7 +30,7 @@ choose the "darknet_no_gpu.sln" open it with visual studio 2015
 #4
 ==
 
-check attributes opencv
+check attributes for opencv
 
 #5
 ==
