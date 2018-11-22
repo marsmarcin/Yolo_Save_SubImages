@@ -46,3 +46,6 @@ open in powershell->cmd->darknet_no_gpu.exe detector test data/coco.data cfg/yol
 
 
 it worked!
+
+![Image text](https://github.com/marsmarcin/Yolo_Save_SubImages/blob/master/yolov3.gif)
+
