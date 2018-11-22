@@ -41,3 +41,5 @@ shift+右键  打开powershell
 再输入 darknet_no_gpu.exe detector test data/coco.data cfg/yolo.cfg yolov2.weights -i 0 -thresh 0.25 dog.jpg
 
 在results文件夹中会看到结果。
+
+![Image text](https://github.com/marsmarcin/Yolo_Save_SubImages/blob/master/yolov3.gif)
